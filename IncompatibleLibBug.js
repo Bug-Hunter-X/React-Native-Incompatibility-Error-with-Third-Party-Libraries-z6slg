@@ -1,0 +1,3 @@
+This error occurs when you are using a third-party library that is not compatible with the version of React Native you are using. This can cause unexpected behavior, such as crashes or incorrect rendering.
+
+For example, if you are using a library that requires React Native 0.60 or higher, but you are using React Native 0.59, you will get this error. Another example is using a library that has not been properly updated to support iOS 15 or Android 12.
